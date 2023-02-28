@@ -1,7 +1,7 @@
 //
 // Created by Killed Hizdahr on 28.02.2023.
 //
-#include "s21_test.h"
+#include "s21_tests/s21_test.h"
 
 
 int main(void) {
